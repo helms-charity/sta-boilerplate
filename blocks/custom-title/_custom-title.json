@@ -38,11 +38,6 @@
           },
           {
             "component": "text",
-            "name": "titleIconAlt",
-            "label": "Alt Text"
-          },
-          {
-            "component": "text",
             "name": "title",
             "label": "Title"
           },
